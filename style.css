@@ -13,7 +13,7 @@ body {
     justify-content: center;
     align-items: center;
     animation: fadeIn 1s ease-in;
-}
+}   
 
 .container {
     display: flex;
