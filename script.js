@@ -18,9 +18,9 @@
             alert("Username should not be empty");
             return false;
         }
-        const regex = /^[a-zA-Z0-9_-]{1,15}$/;
+        const   regex = /^[A-Za-z0-9_-]{1,150}$/;
         const isMatching = regex.test(username);
-        if(!isMatching) {
+        if(!isMatching) {   
             alert("Invalid Username");
         }
         return isMatching;
