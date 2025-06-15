@@ -19,7 +19,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    background: linear-gradient(145deg, #b1b9f1, #87b4d9);
+    background: linear-gradient(145deg, #24c8e2, #c6def5);
     padding: 2rem;
     border-radius: 15px;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
@@ -84,7 +84,7 @@ h1 {
 
 @keyframes glowText {
     from { text-shadow: 0 0 10px #f7f4f1; }
-    to { text-shadow: 0 0 20px #ebeae5; }
+    to { text-shadow: 0 0 20px #ebe5e7; }
 }
 
 .user-container {
@@ -116,7 +116,7 @@ h1 {
 
 #search-btn {
     padding: 0.5rem 1rem;
-    background: linear-gradient(to right, #00b09b, #96c93d);
+    background: linear-gradient(to right, #64b7ff, #70d3f2);
     border: none;
     border-radius: 8px;
     cursor: pointer;
