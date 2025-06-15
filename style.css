@@ -116,7 +116,7 @@ h1 {
 
 #search-btn {
     padding: 0.5rem 1rem;
-    background: linear-gradient(to right, #64b7ff, #70d3f2);
+    background: linear-gradient(to right, #f6549f, #ef39a0);
     border: none;
     border-radius: 8px;
     cursor: pointer;
@@ -127,14 +127,14 @@ h1 {
 
 #search-btn:hover {
     transform: scale(1.05);
-    box-shadow: 0 5px 15px rgba(0, 255, 170, 0.4);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
 }
 
 .circle {
     width: 130px;
     height: 130px;
     border-radius: 50%;
-    border: 6px solid #00c9a7;
+    border: 4px solid #00c9a7;
     position: relative;
     display: flex;
     align-items: center;
@@ -142,9 +142,9 @@ h1 {
     font-size: 1.1rem;
     color: white;
     font-weight: 700;
-    background: conic-gradient(#00c9a7 var(--progress-degree, 0%), #2d2d3c 0%);
+    background: conic-gradient(#00c9a7 var(--progress-degree, 0%), #686869 0%);
     transition: background 0.5s ease;
-    box-shadow: 0 0 20px rgba(0, 201, 167, 0.4);
+    box-shadow: 0 0 20px rgba(243, 137, 194, 0.4);
     flex-direction: column;
 }
 
