@@ -104,14 +104,14 @@ h1 {
     padding: 0.5rem;
     border-radius: 8px;
     border: none;
-    background: #2e2e3a;
-    color: #fff;
+    background: #fbfbfc;
+    color: #000000;
     outline: none;
     transition: box-shadow 0.3s ease;
 }
 
 #user-input:focus {
-    box-shadow: 0 0 10px #00ffae;
+    box-shadow: 0 0 10px #131313;
 }
 
 #search-btn {
