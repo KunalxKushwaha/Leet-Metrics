@@ -10,7 +10,7 @@
 - 📈 Displays:
   - Total Submissions
   - Problems Solved
-    - Easy
+    - Easy 
     - Medium
     - Hard
   - Total Accepted Submissions
