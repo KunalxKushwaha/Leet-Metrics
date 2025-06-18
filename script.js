@@ -12,6 +12,20 @@
     const hardLabel = document.getElementById("hard-label");
     const cardStatsContainer = document.querySelector(".stats-cards");
 
+
+
+usernameInput.addEventListener('keydown', (event) => {
+    if(event.key === 'Enter') {
+        if(usernameInput.value.trim() === '') {
+            alert('Please Enter a Username');
+        } else {
+            usernameInput.blur();
+            fetchUserDetails(usernameInput.value);
+            usernameInput.value = '';
+        }
+    }
+});
+
     //return true or false based on a regex
     function validateUsername(username) {
         if(username.trim() === "") {
