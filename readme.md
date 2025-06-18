@@ -36,7 +36,7 @@
 - **HTML5** – Markup
 - **CSS3** – Styling & Layout
 - **JavaScript (ES6)** – API calls, DOM manipulation
-- **LeetCode GraphQL API** – for retrieving user statistics
+- **LeetCode GraphQL API** – for retrieving user statistics.
 
 ---
 
