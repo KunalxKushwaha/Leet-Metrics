@@ -18,7 +18,7 @@
   - Ranking (if available)
 - 💻 Clean and responsive UI
 - ⚡ Built using **Vanilla JavaScript** (no frameworks)
-- 🌓 Dark mode toggle (optional)
+- 🌓 Dark mode toggle (optional).
 
 ---
 
